@@ -2,10 +2,6 @@
 
 # 🌸 Hi, I'm Nadia! 🌸
 
-### 💻 Building websites • 📊 Exploring data • 🌷 Always learning
-
-I'm a university student who loves creating beautiful web experiences and discovering the stories hidden in data.
-
 [![Portfolio Coming Soon](https://img.shields.io/badge/Portfolio-Coming%20Soon-F8BBD9?style=for-the-badge)]()
 [![Favorite Language](https://img.shields.io/badge/Favorite-SQL-FFC0CB?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![Currently Learning](https://img.shields.io/badge/Learning-React-FADADD?style=for-the-badge&logo=react&logoColor=white)]()
@@ -15,9 +11,6 @@ I'm a university student who loves creating beautiful web experiences and discov
 ---
 
 ## 🌷 About Me
-
-Hi! I'm Nadia, a University developer with interests in both **front-end development** and **data analytics**.
-
 
 💻 Front-End Developer & Future Database Developer
 🎓 University of Cincinnati | Software App Dev & Data Tech (double major) | Junior | 2nd Year
