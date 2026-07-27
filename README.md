@@ -1,26 +1,26 @@
 <div align="center">
 
-# 🌸 Hi, I'm Nadia! 🌸
+# 🌸 hi, i'm nadia! 🌸
 
-[![Portfolio Coming Soon](https://img.shields.io/badge/Portfolio-Coming%20Soon-F8BBD9?style=for-the-badge)]()
-[![Favorite Language](https://img.shields.io/badge/Favorite-SQL-FFC0CB?style=for-the-badge&logo=mysql&logoColor=white)]()
-[![Currently Learning](https://img.shields.io/badge/Learning-React-FADADD?style=for-the-badge&logo=react&logoColor=white)]()
+[![portfolio coming soon](https://img.shields.io/badge/portfolio-coming%20soon-F8BBD9?style=for-the-badge)]()
+[![favorite language](https://img.shields.io/badge/favorite-SQL-FFC0CB?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![currently learning](https://img.shields.io/badge/learning-React-FADADD?style=for-the-badge&logo=react&logoColor=white)]()
 
 </div>
 
 ---
 
-## 🌷 About Me
+## 🌷 about me
 
-💻 Front-End Developer & Future Database Developer
-🎓 University of Cincinnati | Software App Dev & Data Tech (double major) | Junior | 2nd Year
-🌱 Currently learning JavaScript & React
+💻 front-end developer & future database developer
+🎓 university of cincinnati | software app dev & data tech (double major) | junior | 2nd year
+🌱 currently learning JavaScript & React
 
 ---
 
-## 🌸 Tech Stack
+## 🌸 tech stack
 
-### 🎀 Front-End
+### 🎀 front-end
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-FFC0CB?style=for-the-badge&logo=html5&logoColor=white">
@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/React-Learning-FADADD?style=for-the-badge&logo=react&logoColor=white">
 </p>
 
-### ☕ Languages
+### ☕ languages
 
 <p>
 <img src="https://img.shields.io/badge/Java-FFB6C1?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -37,7 +37,7 @@
 <img src="https://img.shields.io/badge/Python-Learning-FADADD?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
-### 📊 Data
+### 📊data
 
 <p>
 <img src="https://img.shields.io/badge/SQL-FFC0CB?style=for-the-badge&logo=mysql&logoColor=white">
@@ -45,7 +45,7 @@
 <img src="https://img.shields.io/badge/Excel-FFDCE5?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 </p>
 
-### 🛠️ Tools
+### 🛠️ tools
 
 <p>
 <img src="https://img.shields.io/badge/Git-FFC0CB?style=for-the-badge&logo=git&logoColor=white">
@@ -56,58 +56,55 @@
 
 ---
 
-## 🌱 Currently Working On
+## 🌱 currently working on
 
-🌸 Building my personal portfolio
+🌸 building my personal portfolio
 
-🍅 Expanding my JavaScript & React knowledge
+🍅 expanding my JavaScript & React knowledge
 
-📊 Strengthening my SQL & data analytics skills
+📊 strengthening my SQL & data analytics skills
 
-✨ Creating projects I'm proud to share
+✨ creating projects I'm proud to share
 
 ---
 
-## 💖 Featured Projects
+## 💖 featured projects
 
 🎮 **Gaming Journey**
 
-A responsive gaming-themed website built with HTML & CSS for a class assignment.
+a responsive gaming-themed website built with HTML & CSS for a class assignment.
 
 🍅 **Basic To-Do & Pomodoro**
 
-A productivity app featuring task management, Local Storage, sound effects, and a customizable Pomodoro timer.
+a productivity app featuring task management, Local Storage, sound effects, and a customizable pomodoro timer.
 
-🌸 **More projects coming soon!**
+🌸 **more projects coming soon !**
 
 ---
 
-## 🌷 GitHub Stats
+## 🌷 github stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nasolily&show_icons=true&theme=ambient_gradient&hide_border=true)
+![gitHub stats](https://github-readme-stats.vercel.app/api?username=nasolily&show_icons=true&theme=ambient_gradient&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nasolily&layout=compact&theme=ambient_gradient&hide_border=true)
+![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nasolily&layout=compact&theme=ambient_gradient&hide_border=true)
 
 </div>
 
 ---
 
-## 🌸 2026 Goals
+## 🌸 2026 goals
 
-- 🌐 Build a portfolio website
-- ⚛️ Become comfortable with React
-- 📊 Complete several data analytics projects
-- 💼 Land another internship
-- ✨ Keep making fun, polished projects
+- 🌐 build a portfolio website
+- 📊 complete several data analytics projects
 
 ---
 
 <div align="center">
 
-### 💗 Thanks for stopping by!
+### 💗 thanks for stopping by!
 
-*"We will always have STEM with us. Some things will drop out of the public eye and go away, but there will always be science, engineering, and technology." - Katherine Johnson* 🌸
+*"we will always have STEM with us. some things will drop out of the public eye and go away, but there will always be science, engineering, and technology." - katherine johnson* 🌸
 
 </div>
