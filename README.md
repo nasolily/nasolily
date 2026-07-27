@@ -12,9 +12,9 @@
 
 ## 🌷 about me
 
-💻 front-end developer & future database developer
-🎓 university of cincinnati | software app dev & data tech (double major) | junior | 2nd year
-🌱 currently learning JavaScript & React
+💻 front-end developer & future database developer<br>
+🎓 university of cincinnati | software app dev & data tech (double major) | junior | 2nd year<br>
+🌱 currently learning JavaScript & React<br>
 
 ---
 
@@ -86,9 +86,9 @@ a productivity app featuring task management, Local Storage, sound effects, and 
 
 <div align="center">
 
-![gitHub stats](https://github-readme-stats.vercel.app/api?username=nasolily&show_icons=true&theme=ambient_gradient&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nasolily&show_icons=true&theme=ambient_gradient&hide_border=true)
 
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nasolily&layout=compact&theme=ambient_gradient&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nasolily&layout=compact&theme=ambient_gradient&hide_border=true)
 
 </div>
 
