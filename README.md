@@ -66,20 +66,6 @@
 
 ---
 
-## 💖 featured projects
-
-🎮 **Gaming Journey**
-
-a responsive gaming-themed website built with HTML & CSS for a class assignment.
-
-🍅 **Basic To-Do & Pomodoro**
-
-a productivity app featuring task management, Local Storage, sound effects, and a customizable pomodoro timer.
-
-🌸 **more projects coming soon !**
-
----
-
 ## 🌷 github stats
 
 <div align="center">
