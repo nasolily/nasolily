@@ -23,78 +23,78 @@
 ### 🎀 front-end
 
 <p>
-<img src="https://img.shields.io/badge/HTML5-FFC0CB?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-F8BBD9?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-F4A6C1?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-F8C8DC?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-FFDCE5?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/TypeScript-F8BBD9?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/React-FFC0CB?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-D8B4E2?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/React-F4A6C1?style=for-the-badge&logo=react&logoColor=white">
 </p>
 
 ### ☕ languages
 
 <p>
-<img src="https://img.shields.io/badge/Java-F48FB1?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/Markdown-F8BBD9?style=for-the-badge&logo=markdown&logoColor=white">
-<img src="https://img.shields.io/badge/C%23-Learning-FADADD?style=for-the-badge&logo=csharp&logoColor=white">
-<img src="https://img.shields.io/badge/Python-Learning-FADADD?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Java-D8B4E2?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Markdown-F8C8DC?style=for-the-badge&logo=markdown&logoColor=white">
+<img src="https://img.shields.io/badge/C%23-Learning-FFDCE5?style=for-the-badge&logo=csharp&logoColor=white">
+<img src="https://img.shields.io/badge/Python-Learning-D8B4E2?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
 ### 📔 frameworks & platforms
 
 <p>
 
-<img src="https://img.shields.io/badge/Vue.js-F8BBD9?style=for-the-badge&logo=vuedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-F48FB1?style=for-the-badge&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/.NET-FADADD?style=for-the-badge&logo=dotnet&logoColor=white">
-<img src="https://img.shields.io/badge/Bootstrap-FFC0CB?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/SASS-F8BBD9?style=for-the-badge&logo=sass&logoColor=white">
-<img src="https://img.shields.io/badge/Vite-F8BBD9?style=for-the-badge&logo=vite&logoColor=white">
-<img src="https://img.shields.io/badge/Playwright-F48FB1?style=for-the-badge&logo=playwright&logoColor=white">
+<img src="https://img.shields.io/badge/Vue.js-F8C8DC?style=for-the-badge&logo=vuedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-D8B4E2?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/.NET-FFDCE5?style=for-the-badge&logo=dotnet&logoColor=white">
+<img src="https://img.shields.io/badge/Bootstrap-F4A6C1?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/SASS-F8C8DC?style=for-the-badge&logo=sass&logoColor=white">
+<img src="https://img.shields.io/badge/Vite-F8C8DC?style=for-the-badge&logo=vite&logoColor=white">
+<img src="https://img.shields.io/badge/Playwright-D8B4E2?style=for-the-badge&logo=playwright&logoColor=white">
 </p>
 
 ### 📊 database & data tools
 
 <p>
-<img src="https://img.shields.io/badge/SQL-FFC0CB?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/SQLite-FFC0CB?style=for-the-badge&logo=sqlite&logoColor=white">
-<img src="https://img.shields.io/badge/MS%20SQL%20Server-FADADD?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-F4A6C1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/SQLite-F8C8DC?style=for-the-badge&logo=sqlite&logoColor=white">
+<img src="https://img.shields.io/badge/MS%20SQL%20Server-D8B4E2?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
 <img src="https://img.shields.io/badge/R-F8C8DC?style=for-the-badge&logo=r&logoColor=white">
-<img src="https://img.shields.io/badge/R%20Studio-F8BBD9?style=for-the-badge&logo=rstudio&logoColor=white">
-<img src="https://img.shields.io/badge/Power%20BI-F8BBD9?style=for-the-badge&logo=powerbi&logoColor=white">
-<img src="https://img.shields.io/badge/Excel-FFDCE5?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+<img src="https://img.shields.io/badge/R%20Studio-FFDCE5?style=for-the-badge&logo=rstudio&logoColor=white">
+<img src="https://img.shields.io/badge/Power%20BI-D8B4E2?style=for-the-badge&logo=powerbi&logoColor=white">
+<img src="https://img.shields.io/badge/Excel-F8C8DC?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 </p>
 
 ### 🎨 design & creative tools
 
 <p>
-<img src="https://img.shields.io/badge/Figma-FADADD?style=for-the-badge&logo=figma&logoColor=white">
-<img src="https://img.shields.io/badge/Canva-FFC0CB?style=for-the-badge&logo=canva&logoColor=white">
-<img src="https://img.shields.io/badge/Inkscape-F8BBD9?style=for-the-badge&logo=inkscape&logoColor=white">
-<img src="https://img.shields.io/badge/Blender-F48FB1?style=for-the-badge&logo=blender&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-D8B4E2?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/Canva-F4A6C1?style=for-the-badge&logo=canva&logoColor=white">
+<img src="https://img.shields.io/badge/Inkscape-F8C8DC?style=for-the-badge&logo=inkscape&logoColor=white">
+<img src="https://img.shields.io/badge/Blender-D8B4E2?style=for-the-badge&logo=blender&logoColor=white">
 </p>
 
 ### 🎮 game development
 
 <p>
-<img src="https://img.shields.io/badge/Unity-FADADD?style=for-the-badge&logo=unity&logoColor=white">
+<img src="https://img.shields.io/badge/Unity-FFDCE5?style=for-the-badge&logo=unity&logoColor=white">
 </p>
 
 ### 🛡️ cybersecurity & virtualization
 
 <p>
-<img src="https://img.shields.io/badge/Ohio%20Cyber%20Range-FFC0CB?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Ubuntu-F8BBD9?style=for-the-badge&logo=ubuntu&logoColor=white">
-<img src="https://img.shields.io/badge/VMware-F48FB1?style=for-the-badge&logo=vmware&logoColor=white">
+<img src="https://img.shields.io/badge/Ohio%20Cyber%20Range-F4A6C1?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Ubuntu-D8B4E2?style=for-the-badge&logo=ubuntu&logoColor=white">
+<img src="https://img.shields.io/badge/VMware-F8C8DC?style=for-the-badge&logo=vmware&logoColor=white">
 </p>
 
 ### 🛠️ tools
 
 <p>
-<img src="https://img.shields.io/badge/Git-FFC0CB?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/Sitefinity%20CMS-FADADD?style=for-the-badge">
-<img src="https://img.shields.io/badge/IntelliJ%20IDEA-FFC0CB?style=for-the-badge&logo=intellijidea&logoColor=white">
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-FADADD?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-<img src="https://img.shields.io/badge/Microsoft%20Office-FFDCE5?style=for-the-badge&logo=microsoftoffice&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F4A6C1?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Sitefinity%20CMS-FFDCE5?style=for-the-badge">
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-F8C8DC?style=for-the-badge&logo=intellijidea&logoColor=white">
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-D8B4E2?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft%20Office-F8C8DC?style=for-the-badge&logo=microsoftoffice&logoColor=white">
 </p>
 
 ---
