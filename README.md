@@ -33,7 +33,6 @@
 
 <p>
 <img src="https://img.shields.io/badge/Java-FFB6C1?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/R-F8C8DC?style=for-the-badge&logo=r&logoColor=white">
 <img src="https://img.shields.io/badge/Python-Learning-FADADD?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
@@ -41,6 +40,7 @@
 
 <p>
 <img src="https://img.shields.io/badge/SQL-FFC0CB?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/R-F8C8DC?style=for-the-badge&logo=r&logoColor=white">
 <img src="https://img.shields.io/badge/Power%20BI-F8BBD9?style=for-the-badge&logo=powerbi&logoColor=white">
 <img src="https://img.shields.io/badge/Excel-FFDCE5?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 </p>
