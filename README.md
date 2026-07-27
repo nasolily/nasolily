@@ -12,7 +12,7 @@
 
 ## 🌷 about me
 
-💻 front-end developer & future database developer<br>
+💻 front-end & future database developer<br>
 🎓 university of cincinnati | software app dev & data tech (double major) | junior | 2nd year<br>
 🌱 currently learning JavaScript & React<br>
 
@@ -37,7 +37,7 @@
 <img src="https://img.shields.io/badge/Python-Learning-FADADD?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
-### 📊data
+### 📊 data
 
 <p>
 <img src="https://img.shields.io/badge/SQL-FFC0CB?style=for-the-badge&logo=mysql&logoColor=white">
@@ -63,8 +63,6 @@
 🍅 expanding my JavaScript & React knowledge
 
 📊 strengthening my SQL & data analytics skills
-
-✨ creating projects I'm proud to share
 
 ---
 
