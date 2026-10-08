@@ -14,7 +14,7 @@
 
 💻 front-end & future database developer<br>
 🎓 university of cincinnati | software app dev & data tech (double major) | junior | 2nd year<br>
-🌱 currently learning JavaScript & React<br>
+🌱 currently learning JavaScript, C#, & React<br>
 
 ---
 
