@@ -102,11 +102,11 @@
 
 ## 🌱 currently working on
 
-🌸 building my personal portfolio
+- building my personal portfolio
 
-🍅 expanding my JavaScript & React knowledge
+- creating a VALORANT Match Analyzer
 
-📊 strengthening my SQL & data analytics skills
+- strengthening my SQL & data analytics skills
 
 ---
 
@@ -124,8 +124,8 @@
 
 ## 🌸 2026 goals
 
-- 🌐 build a portfolio website
-- 📊 complete several data analytics projects
+- build a portfolio website
+- complete several data analytics projects
 
 ---
 
