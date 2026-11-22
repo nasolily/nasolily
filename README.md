@@ -1,10 +1,6 @@
 <div align="center">
 
-# 🌸 hi, i'm nadia! 🌸
-
-[![portfolio coming soon](https://img.shields.io/badge/portfolio-coming%20soon-F8BBD9?style=for-the-badge)]()
-[![favorite language](https://img.shields.io/badge/favorite-SQL-FFC0CB?style=for-the-badge&logo=mysql&logoColor=white)]()
-[![currently learning](https://img.shields.io/badge/learning-React-FADADD?style=for-the-badge&logo=react&logoColor=white)]()
+# hi, i'm nadia! 
 
 </div>
 
@@ -14,7 +10,6 @@
 
 💻 front-end & future database developer<br>
 🎓 university of cincinnati | software app dev & data tech (double major) | junior | 2nd year<br>
-🌱 currently learning JavaScript, C#, & React<br>
 
 ---
 
