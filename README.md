@@ -1,21 +1,21 @@
 <div align="center">
 
-# hi, i'm nadia! 
+# 🌷 hi, i'm nadia! 🌷
 
 </div>
 
 ---
 
-## 🌷 about me
+## about me
 
 💻 front-end & future database developer<br>
 🎓 university of cincinnati | software app dev & data tech (double major) | junior | 2nd year<br>
 
 ---
 
-## 🌸 tech stack
+##  tech stack
 
-### 🎀 front-end
+### front-end
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-F4A6C1?style=for-the-badge&logo=html5&logoColor=white">
@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/React-F8C8DC?style=for-the-badge&logo=react&logoColor=white">
 </p>
 
-### ☕ languages
+### languages
 
 <p>
 <img src="https://img.shields.io/badge/Java-D8B4E2?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -34,7 +34,7 @@
 <img src="https://img.shields.io/badge/Python-Learning-D8B4E2?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
-### 📔 frameworks & platforms
+### frameworks & platforms
 
 <p>
 
@@ -48,7 +48,7 @@
 
 </p>
 
-### 📊 database & data tools
+### database & data tools
 
 <p>
 <img src="https://img.shields.io/badge/SQL-A8D8B9?style=for-the-badge&logo=mysql&logoColor=white">
@@ -60,7 +60,7 @@
 <img src="https://img.shields.io/badge/Excel-D8F3DC?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 </p>
 
-### 🎨 design & creative tools
+### design & creative tools
 
 <p>
 <img src="https://img.shields.io/badge/Figma-FFD6A5?style=for-the-badge&logo=figma&logoColor=white">
@@ -69,13 +69,13 @@
 <img src="https://img.shields.io/badge/Blender-FFB5A7?style=for-the-badge&logo=blender&logoColor=white">
 </p>
 
-### 🎮 game development
+### game development
 
 <p>
 <img src="https://img.shields.io/badge/Unity-CDB4DB?style=for-the-badge&logo=unity&logoColor=white">
 </p>
 
-### 🛡️ cybersecurity & virtualization
+### cybersecurity & virtualization
 
 <p>
 <img src="https://img.shields.io/badge/Ohio%20Cyber%20Range-B7D7A8?style=for-the-badge&logoColor=white">
@@ -83,7 +83,7 @@
 <img src="https://img.shields.io/badge/VMware-A8D5BA?style=for-the-badge&logo=vmware&logoColor=white">
 </p>
 
-### 🛠️ tools
+### tools
 
 <p>
 <img src="https://img.shields.io/badge/Git-FFB5A7?style=for-the-badge&logo=git&logoColor=white">
@@ -95,7 +95,7 @@
 
 ---
 
-## 🌱 currently working on
+## currently working on
 
 - building my personal portfolio
 
@@ -105,7 +105,7 @@
 
 ---
 
-## 🌷 github stats
+## github stats
 
 <div align="center">
 
