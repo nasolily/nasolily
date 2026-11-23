@@ -8,7 +8,7 @@
 
 ## about me
 
-💻 front-end & future database developer<br>
+💻 developer interested in data, software & UI/UX<br>
 🎓 university of cincinnati | software app dev & data tech (double major) | junior | 2nd year<br>
 
 ---
