@@ -101,7 +101,7 @@
 
 - creating a VALORANT Match Analyzer
 
-- strengthening my SQL & data analytics skills
+- strengthening my SQL & DSA skills
 
 ---
 
@@ -120,7 +120,7 @@
 ## 🌸 2026 goals
 
 - build a portfolio website
-- complete several data analytics projects
+- complete data analytics projects
 
 ---
 
