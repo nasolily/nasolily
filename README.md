@@ -66,13 +66,6 @@
 <img src="https://img.shields.io/badge/Figma-FFD6A5?style=for-the-badge&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/Canva-FFE5B4?style=for-the-badge&logo=canva&logoColor=white">
 <img src="https://img.shields.io/badge/Inkscape-FFDAB9?style=for-the-badge&logo=inkscape&logoColor=white">
-<img src="https://img.shields.io/badge/Blender-FFB5A7?style=for-the-badge&logo=blender&logoColor=white">
-</p>
-
-### game development
-
-<p>
-<img src="https://img.shields.io/badge/Unity-CDB4DB?style=for-the-badge&logo=unity&logoColor=white">
 </p>
 
 ### cybersecurity & virtualization
@@ -99,7 +92,7 @@
 
 - building my personal portfolio
 
-- creating a VALORANT Match Analyzer
+- creating a Valorant Match Analyzer
 
 - strengthening my SQL & DSA skills
 
